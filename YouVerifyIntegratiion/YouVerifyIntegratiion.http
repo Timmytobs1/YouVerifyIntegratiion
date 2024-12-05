@@ -1,0 +1,6 @@
+@YouVerifyIntegratiion_HostAddress = http://localhost:5098
+
+GET {{YouVerifyIntegratiion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
